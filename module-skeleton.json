@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-fraud-intelligence-vue-inertia",
+  "capabilityKey": "planned:ecommerce:fraud-intelligence",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-fraud-intelligence-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/fraud-intelligence.md",
+  "presentationPlan": "projects/ecommerce/vue/fraud-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
